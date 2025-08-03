@@ -1,5 +1,5 @@
 #  MARM
-Code of our paper: "MARM: Medical Adaptive Reasoning Model".
+Data and Code of our paper: "MARM: Medical Adaptive Reasoning Model".
 
 # Environments
 This repository contains the codebase for SFT and RL based on LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory) and Unsloth (https://unsloth.ai/?ref=producthunt). We use two separate conda environments for each stage.
