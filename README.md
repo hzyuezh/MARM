@@ -9,4 +9,10 @@ This repository contains the codebase for SFT and RL based on LLaMA-Factory and 
 File "data/train1.jsonl" is used for training in the SFT stage, while File "data/train2.jsonl" is used for training in the RL stage.
 
 
-
+# Evaluate
+The "eval.py "script is used to evaluate model performance, while the "statistic.py" script is used to compute and summarize experimental results.
+'''json
+cd evaluate
+python eval.py
+python statistic.py
+'''
