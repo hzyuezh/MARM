@@ -1,1 +1,2 @@
-#  Data and Code of paper "MARM: Medical Adaptive Reasoning Model".
+#  MARM
+Code of our paper: [MARM: Medical Adaptive Reasoning Model]
