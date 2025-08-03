@@ -11,8 +11,9 @@ File "data/train1.jsonl" is used for training in the SFT stage, while File "data
 
 # Evaluate
 The "eval.py "script is used to evaluate model performance, while the "statistic.py" script is used to compute and summarize experimental results.
-'''json
+
+```yaml
 cd evaluate
 python eval.py
 python statistic.py
-'''
+```
