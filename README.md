@@ -6,7 +6,11 @@ This repository contains the codebase for SFT and RL based on LLaMA-Factory (htt
 
 
 # Training
-File "data/train1.jsonl" is used for training in the SFT stage, while File "data/train2.jsonl" is used for training in the RL stage.
+File "data/train_sft.jsonl" is used for training in the SFT stage, while File "data/train_rl.jsonl" is used for training in the RL stage.
+
+
+# Reasoning
+The "run.py" script is used to run inference on the trained model. 
 
 
 # Evaluate
